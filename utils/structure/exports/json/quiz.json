@@ -1,0 +1,37 @@
+[
+	{
+		"question": "What is the most popular code language?",
+		"answers": [
+			"py",
+			"python"
+		]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": [
+			"26",
+			"twenty-six",
+			"twenty six",
+			"twentysix"
+		]
+	},
+	{
+		"question": "Who created Synth?",
+		"answers": [
+			"Slayer",
+			"S!ayer"
+		]
+	},
+	{
+		"question": "What is the best discord music bot?",
+		"answers": [
+			"octave"
+		]
+	},
+	{
+		"question": "Which planet is closes to the sun",
+		"answers": [
+			"mercury"
+		]
+	}
+]

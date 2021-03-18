@@ -1,0 +1,8 @@
+{
+    "bot_name": "Synth",
+    "mainURL": "https://cdn.discordapp.com/attachments/787603775560482867/789552122969718784/Synth_maybe_new_logo.gif",
+
+    "loop_status_types": true,
+    "loop_status": ["COMPETING", "PLAYING", "WATCHING"],
+    "status": ".help"
+}

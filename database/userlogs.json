@@ -1,0 +1,128 @@
+{
+  "814020092135342090": {
+    "814055671812063242": {
+      "3158f6d6-d97b-4a78-81ab-8002e27bd9e0": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 11 Mar 2021 19:23:37 GMT"
+      },
+      "edfa3141-47b9-4e72-a3b3-94a4bfc49350": {
+        "type": "mute",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 11 Mar 2021 19:23:52 GMT"
+      },
+      "fbad79f8-4ce8-4075-b8f0-f3154692c82d": {
+        "type": "nickname change",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 11 Mar 2021 19:29:01 GMT"
+      },
+      "c488437e-09e4-4360-abda-f12e78d2a37f": {
+        "type": "ban",
+        "mod": "Slayеr#1337",
+        "date": "Fri, 12 Mar 2021 08:11:37 GMT"
+      },
+      "37dc05bd-5b99-4aa1-aa8a-12890e35bb3d": {
+        "type": "unban",
+        "mod": "Slayеr#1337",
+        "date": "Fri, 12 Mar 2021 08:11:53 GMT"
+      },
+      "e1e38958-c0f9-409c-a344-ff20480e5345": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Fri, 12 Mar 2021 08:12:39 GMT"
+      },
+      "b499d959-f499-4c62-a05d-50a93792b33e": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:05:30 GMT"
+      },
+      "20c779d4-1e92-463f-b08d-1a2578272b1c": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:05:38 GMT"
+      },
+      "39354eea-7fcb-405d-b718-e7781f056efe": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:05:53 GMT"
+      },
+      "faac85af-5bbd-4a3e-83a8-38978401dfbe": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:11:23 GMT"
+      },
+      "ebca23a6-9d66-4ade-9492-c21893c150aa": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:11:39 GMT"
+      },
+      "3a4ac051-fad9-4fee-91bf-3931552c79a4": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:13:50 GMT"
+      },
+      "c8bb0a6a-89ec-4994-a79a-afdc632465ba": {
+        "type": "ban",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 08:56:20 GMT"
+      },
+      "9b23ca6d-f0f4-4cc9-9b20-3eee9413e662": {
+        "type": "unban",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 08:56:36 GMT"
+      },
+      "ee70c265-fd71-4ae4-aed5-f7833274389e": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 20:18:35 GMT"
+      },
+      "16453677-8dc5-4f94-8841-6e72f99f7f2f": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 20:18:39 GMT"
+      }
+    }
+  },
+  "812420747136860241": {
+    "814055671812063242": {
+      "2c172ab3-f4c9-45ab-94cc-1f449def6f43": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:04:41 GMT"
+      },
+      "93888293-c8a8-468e-8994-c721d86edcad": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:05:13 GMT"
+      }
+    }
+  },
+  "576764876924387328": {
+    "814055671812063242": {
+      "3c490c31-1532-4024-a79e-1e2d95df3749": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Sun, 14 Mar 2021 07:13:39 GMT"
+      }
+    }
+  },
+  "695605668194811977": {
+    "814055671812063242": {
+      "c6dbebfc-bafc-4f6b-b1dc-1108f4d0f55e": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 18 Mar 2021 08:28:32 GMT"
+      },
+      "473b272b-0025-44c8-b08f-c1cf40e7e35e": {
+        "type": "warn",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 18 Mar 2021 08:28:36 GMT"
+      },
+      "5094a3a4-7ad2-42f1-8944-ce4f5a8fe6e4": {
+        "type": "warnings check",
+        "mod": "Slayеr#1337",
+        "date": "Thu, 18 Mar 2021 08:28:38 GMT"
+      }
+    }
+  }
+}
